@@ -10,7 +10,7 @@ import {
   TextInput,
 } from "react-native";
 import React, { useState } from "react";
-import InputTemperature from "./components/HomeMenu/InputTemperature.jsx";
+// import InputTemperature from "./components/HomeMenu/InputTemperature.jsx";
 
 export const CookieCount = ({ currentCelsius, currentFahrenheit }) => {
   return (
